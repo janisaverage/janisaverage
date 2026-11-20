@@ -5,7 +5,11 @@
 
 ##  About Me
 -- Currently working and directing a Roblox Asymmetrical Horror Game, named "A Brutal Fate". I'm not an independed developer, A Brutal Fate is being worked on by a team of wonderful people that put passion onto their work! It's been a dream to start a game studio and make games alongside some people, and friends.
+
+
 -- Other than that, I sometimes hang around in PonyTown alongside my boyfriend, so if you're from PonyTown, hello!
+
+-- Beginner Graphic Designer
 
 
 ## Links
