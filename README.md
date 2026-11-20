@@ -1,8 +1,5 @@
 <h1 align="center">JanIsAverage</h1>
 <h3 align="center">Founder of RedR Studios   </h3>
-
-<p align="center">
-  <a href="https://komarev.com/ghpvc/?username=JanIsAverage">
    
 <img src="https://cdn.discordapp.com/attachments/1253050735810056313/1573196400127123477/Untitled472_20261120004028.png?ex=6b0120d2&is=6affcf52&hm=50d65682b5e19ac0740247cd4d6233ff765142705cfdf818e9fa705bd29195a7&" alt="Banner" width="100%" />
 
